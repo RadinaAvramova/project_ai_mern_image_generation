@@ -1,2 +1,1 @@
-# project_ai_mern_image_generation
-project_ai_mern_image_generation
+# Build and Deploy a Full Stack MERN AI Image Generation App  MidJourney & DALL E Clone
