@@ -8,7 +8,7 @@
     "start": "nodemon index"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "cloudinary": "^1.33.0",
     "cors": "^2.8.5",
